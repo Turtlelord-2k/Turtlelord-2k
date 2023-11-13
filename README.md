@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Turtlelord-2k
-- 👀 I’m interested in progressively learning and keeping up to date with mordern technology
-- 🌱 I’m currently learning C++and Pythin for robotics, mainly using Arduino board
+- 👀 I’m interested in progressively learning and keeping up to date with modern technology
+- 🌱 I’m currently learning C++and Python for robotics, mainly using Arduino board
 - 💞️ I’m looking to collaborate on exciting robotics projects
 - 📫 How to reach me ...
 
